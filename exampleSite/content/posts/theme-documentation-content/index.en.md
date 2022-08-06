@@ -334,6 +334,10 @@ $$ c = \pm\sqrt{a^2 + b^2} $$
 
 \\[ f(x)=\int_{-\infty}^{\infty} \hat{f}(\xi) e^{2 \pi i \xi x} d \xi \\]
 
+\begin{equation}
+  i\equiv \frac{dq}{dt} 
+\end{equation}
+
 \begin{equation*}
   \rho \frac{\mathrm{D} \mathbf{v}}{\mathrm{D} t}=\nabla \cdot \mathbb{P}+\rho \mathbf{f}
 \end{equation*}
